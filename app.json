@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "4c0fb1f5-d1c2-4e9d-b318-73c84b1b1672"
+      }
+    },
+    "android": {
+      "package": "com.asfara.mobilemoney"
+    }
+  }
+}

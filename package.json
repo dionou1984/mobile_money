@@ -1,7 +1,19 @@
 {
-  "name": "mobile_money",
+  "name": "mobilemoney",
   "version": "1.0.0",
   "dependencies": {
-    
+    "axios": "^1.7.9",
+    "expo-dev-client": "^5.0.12",
+    "react": "^19.0.0",
+    "react-native": "^0.78.0",
+    "react-native-cli": "^2.0.1",
+    "recat": "^0.0.0",
+    "react-dom": "18.3.1",
+    "react-native-web": "~0.19.13",
+    "@expo/metro-runtime": "~4.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/react": "~18.3.12"
   }
 }
